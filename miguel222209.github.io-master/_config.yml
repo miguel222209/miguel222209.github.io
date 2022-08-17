@@ -1,0 +1,17 @@
+title: T-Rex
+iconURL: assets/default-icon.gif
+theme: jekyll-theme-leaf
+
+# for a clean URL
+permalink: :slug
+
+social:
+  github: miguel222209
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
+### comments & analytics
+hyvor_talk_website_id: 14
+google_analytics: UA-NNNNNNNN-N
